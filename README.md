@@ -1,0 +1,2 @@
+# Vise-card
+Birinchi ish 
