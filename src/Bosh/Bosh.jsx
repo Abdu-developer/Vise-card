@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bosh = () => {
   return (
-    <div>Bosh</div>
+    <div className='blok1'>blok1</div>
   )
 }
 
