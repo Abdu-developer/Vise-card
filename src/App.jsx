@@ -4,9 +4,9 @@ import Bosh from './Bosh/Bosh'
 
 const App = () => {
   return (
-    <div>
+    <div className='asosiy'>
       <Navbar />
-      <Bosh/>
+      <Bosh />
     </div>
   )
 }
